@@ -1,8 +1,6 @@
 # smart-toilet-research_paper
 This repository contains files related to the smart toilet paper. 
 
-![Design](/⁨⁨Diagrams/draw-exports/smart-toilet-flow-diagram.png)
-
 
 # Contents
 
